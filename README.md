@@ -1,2 +1,4 @@
-# In-Class-Activity
-It an in class activity by Aldo Morales
+# cse360_helloworld
+This repository is to serve as CSE360 GitHub tutorial.
+
+This is a change reflecting a commit done by Aldo Morales
